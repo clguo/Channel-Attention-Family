@@ -7,7 +7,7 @@ Channel Attention was first used as a squeeze and excitation block for classific
 # Channel-Attention-family
 
 ## 2017 
-  * Squeeze-and-Excitation Networks(CVPR) [paper](https://arxiv.org/abs/1709.01507)[code](https://github.com/hujie-frank/SENet)
+  * Squeeze-and-Excitation Networks(CVPR) [[paper]](https://arxiv.org/abs/1709.01507)[[code]](https://github.com/hujie-frank/SENet)
 ## 2018 
   * Image Super-Resolution Using Very Deep Residual Channel Attention Networks(ECCV).[paper](https://arxiv.org/abs/1807.02758)[code](https://arxiv.org/abs/1807.02758)
   * CBAM: Convolutional Block Attention Module(ECCV).[paper](https://arxiv.org/abs/1807.06521)[keras](https://github.com/kobiso/CBAM-keras)[pytorch](https://github.com/luuuyi/CBAM.PyTorch)
