@@ -19,7 +19,7 @@ Channel Attention was first used as a squeeze and excitation block for classific
    * DenseNet with Deep Residual Channel-Attention Blocks for Single Image Super
 Resolution(CVPR Workshop).[[paper]](https://openaccess.thecvf.com/content_CVPRW_2019/html/NTIRE/Jang_DenseNet_With_Deep_Residual_Channel-Attention_Blocks_for_Single_Image_Super_CVPRW_2019_paper.html)[[code]](https://github.com/dong-won-jang/DRCA)
 ## 2020
-  * ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks(CVPR).[[paper]](https://arxiv.org/abs/1910.03151)[code](https://github.com/BangguWu/ECANet) 
+  * ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks(CVPR).[[paper]](https://arxiv.org/abs/1910.03151)[[code]](https://github.com/BangguWu/ECANet) 
   * ResNeSt: Split-Attention Networks.[[paper]](https://arxiv.org/abs/2004.08955)[[code]](https://github.com/zhanghang1989/ResNeSt)
   * Channel Attention Residual U-Net for Retinal Vessel Segmentation.[[paper]](https://arxiv.org/abs/2004.03702)[[code]](https://github.com/clguo/CAR-UNet)
 
