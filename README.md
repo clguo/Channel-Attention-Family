@@ -9,7 +9,7 @@ Channel Attention was first used as a squeeze and excitation block for classific
 ## 2017 
   * Squeeze-and-Excitation Networks(CVPR) [[paper]](https://arxiv.org/abs/1709.01507)[[code]](https://github.com/hujie-frank/SENet)
 ## 2018 
-  * Image Super-Resolution Using Very Deep Residual Channel Attention Networks(ECCV).[[paper]](https://arxiv.org/abs/1807.02758)[[code]](https://arxiv.org/abs/1807.02758)
+  * Image Super-Resolution Using Very Deep Residual Channel Attention Networks(ECCV).[[paper]](https://arxiv.org/abs/1807.02758)[[code]](https://github.com/yulunzhang/RCAN)
   * CBAM: Convolutional Block Attention Module(ECCV).[[paper]](https://arxiv.org/abs/1807.06521)[[keras]](https://github.com/kobiso/CBAM-keras)[[code]](https://github.com/luuuyi/CBAM.PyTorch)
   * BAM: Bottleneck Attention Module(BMVC).[[paper]](https://arxiv.org/abs/1807.06514)[[code]](https://github.com/Jongchan/attention-module)
   * Learning a Discriminative Feature Network for Semantic Segmentation(CVPR).[[paper]](https://arxiv.org/abs/1804.09337)[[code]](https://github.com/ycszen/TorchSeg)
