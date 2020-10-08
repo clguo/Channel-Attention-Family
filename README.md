@@ -1,7 +1,7 @@
 # Introduction
 
 Channel Attention was first used as a squeeze and excitation block for classification, which generates channel attention maps by using the relationship between the channels.
-
+![SE](SE.jpg?raw=true "SE")
 
 
 # Channel-Attention-family
